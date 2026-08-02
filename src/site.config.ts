@@ -25,7 +25,7 @@ export const site: SiteConfig = {
   description:
     'Systems-thinking product designer turning stagnating products into growth engines — fixing ecosystems, not just interfaces, and shipping the code to prove it.',
   socials: [
-    { label: 'Email', href: 'mailto:pmcf@outlook.com' },
+    { label: 'Email', href: 'mailto:redacted@example.invalid' },
     { label: 'LinkedIn', href: 'https://www.linkedin.com/in/pmcfernandes' },
     { label: 'GitHub', href: 'https://github.com/freenandes' },
   ],
