@@ -32,7 +32,7 @@ export const site: SiteConfig = {
   description:
     'Systems-thinking product designer turning stagnating products into growth engines — fixing ecosystems, not just interfaces, and shipping the code to prove it.',
   socials: [
-    { label: 'Email', token: '7f0f121c193f100a0b13101014511c1012' },
+    { label: 'Email', token: 'b3c3d6d7c1dcf3c3ded0d59dcbcac9' },
     { label: 'LinkedIn', href: 'https://www.linkedin.com/in/pmcfernandes' },
     { label: 'GitHub', href: 'https://github.com/freenandes' },
   ],
